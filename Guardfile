@@ -8,6 +8,6 @@ guard 'rails', port: PORT, host: '0.0.0.0' do
 end
 
 guard :rubocop do
-  watch(%r{.+\.rb$})
+  watch(/.+\.rb$/)
   watch(%r{(?:.+/)?\.rubocop(?:_todo)?\.yml$}) { |m| File.dirname(m[0]) }
 end
