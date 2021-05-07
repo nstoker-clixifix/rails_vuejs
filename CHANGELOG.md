@@ -8,3 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Initial project build using the Rails generator with `rails new rails_vuejs --webpack=vue`.
+- Rename initial javascript pack file and add to `application.html.erb`.
+- Add google font and fontawesome packs.
