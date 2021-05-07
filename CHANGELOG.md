@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add guard and guard-rubocop.
 - Add Users files.
 - Add guard-webpacker.
+- Add vuetify. `npm add vuetify`.
 
 ## v0.0.0 2021-05-07
 
