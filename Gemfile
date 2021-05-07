@@ -39,6 +39,7 @@ group :development do
   gem 'guard'
   gem 'guard-rails', require: false
   gem 'guard-rubocop'
+  gem 'guard-webpacker'
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'listen', '~> 3.2'
   gem 'web-console', '>= 3.3.0'
