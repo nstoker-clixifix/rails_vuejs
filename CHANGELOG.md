@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Update Puma to v4.3.8 for [CVE-2021-29509](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29509).
+- Update @rails/webpacker to v5.0 - [synk pr2](https://github.com/nstoker-clixifix/rails_vuejs/pull/2)
+
 ## v0.0.0 2021-05-07
 
 - Initial project build using the Rails generator with `rails new rails_vuejs --webpack=vue`.
