@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Update yarn packages.
+- Update Gemfile.
+
 ## v0.0.1 2021-05-26
 
 - Update Puma to v4.3.8 for [CVE-2021-29509](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29509).
