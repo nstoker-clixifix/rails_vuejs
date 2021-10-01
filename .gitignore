@@ -39,3 +39,6 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Not interested in the workspace files
+workspace.code-workspace
